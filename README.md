@@ -1,3 +1,3 @@
 # Wordle
 
-A simple version of wordle written with java with ASCII art
+A simple version of wordle written in Java with ASCII art
