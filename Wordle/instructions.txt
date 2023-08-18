@@ -1,0 +1,21 @@
+Rules:
+In the game of Wordle, you have six attempts at guessing a five-letter word. 
+For every guess, you will be given a hint for each of the letters of your guess.
+Each letter will be marked with one of the following symbols:
+
+✔ - the letter is in the correct position
+⚫ - the letter is in the word, but not in the correct position
+❌ - the letter is not in the word at all
+
+The game either ends after six tries or when you are able to guess the word. 
+
+Notes: 
+- If there is a duplicate letter in your guess, it will be marked as "⚫" if there is another occurence of the letter in the hidden word. 
+Otherwise, it will be marked as "❌". 
+- All the words used in this game, including your guesses, must be part of the word list.
+Full word list: https://docs.google.com/document/d/1CGES2Ln58QU7kgbmUDQVaWwHcXSV5bGhHJ7F3-tg6xI/edit
+
+Setup:
+This game is played on a 5x6 grid. 
+For each position in each row, there will be a symbol for the hint with the corresponding letter below.
+If you have not guessed for the row yet, there will be a "⬛" for each position, representing an empty row.
